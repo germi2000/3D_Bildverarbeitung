@@ -1,11 +1,12 @@
 # 3D_Bildverarbeitung
 
-Punktwolke mit Grenzen erstellen
+## Punktwolke mit Grenzen erstellen
 ```
-Np.random.uniform()
+Np.random.uniform(untere_Grenze, obere_Grenze, Anzahl_Punkte)
 ```
-Ring maskieren
-Translatieren und Rotieren
+## Ring maskieren
+je nachdem was maskiert werden will unterschiedlich
+## Translatieren und Rotieren
 ```
-Trafo2d()
+Trafo2d(Translation=(x,y), Rotation=np.deg2rad(Winkel))
 ```
