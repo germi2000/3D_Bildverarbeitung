@@ -1,5 +1,5 @@
 # 3D_Bildverarbeitung
-Screenshot 2023-06-15 133719.png
+![](Screenshot 2023-06-15 133719.png)
 ## Punktwolke mit Grenzen erstellen
 ```
 Np.random.uniform(untere_Grenze, obere_Grenze, Anzahl_Punkte)
