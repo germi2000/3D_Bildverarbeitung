@@ -1,5 +1,5 @@
 # 3D_Bildverarbeitung
-#Punktwolke maskieren
+# Punktwolke maskieren
 ![Maskieren](maskieren.png)
 ## Punktwolke mit Grenzen erstellen
 ```
@@ -11,7 +11,7 @@ je nachdem was maskiert werden will unterschiedlich
 ```
 Trafo2d(Translation=(x,y), Rotation=np.deg2rad(Winkel))
 ```
-#Tetris spielen
+# Tetris spielen
 ![](tetris.png)
 ## Verschiedene Punktwolken in eine 
 ```
